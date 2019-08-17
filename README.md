@@ -2,6 +2,10 @@
 
 > My first-class Nuxt.js project
 
+### 元ネタはこの辺り
+https://codesandbox.io/s/vueobservable-phbdb  
+https://jp.vuejs.org/v2/api/index.html#Vue-observable  
+
 ## Build Setup
 
 ``` bash
